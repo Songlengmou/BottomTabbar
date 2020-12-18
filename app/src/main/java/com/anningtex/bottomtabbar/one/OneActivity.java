@@ -1,10 +1,11 @@
-package com.anningtex.bottomtabbar;
+package com.anningtex.bottomtabbar.one;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.TextView;
 
+import com.anningtex.bottomtabbar.R;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 /**

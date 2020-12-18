@@ -1,4 +1,4 @@
-package com.anningtex.bottomtabbar;
+package com.anningtex.bottomtabbar.three;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.util.SparseArray;
 import android.widget.RadioGroup;
 
+import com.anningtex.bottomtabbar.R;
 import com.anningtex.bottomtabbar.two.BlankFragment;
 import com.anningtex.bottomtabbar.two.TwoActivity;
 

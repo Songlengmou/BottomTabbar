@@ -9,12 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BottomTabbar">
-        <activity android:name=".six.SixActivity"></activity>
+
+        <activity android:name=".eight.EightActivity" />
+        <activity android:name=".seven.SevenActivity" />
+        <activity android:name=".six.SixActivity" />
         <activity android:name=".five.FiveActivity" />
         <activity android:name=".four.FourActivity" />
-        <activity android:name=".ThreeActivity" />
+        <activity android:name=".three.ThreeActivity" />
         <activity android:name=".two.TwoActivity" />
-        <activity android:name=".OneActivity" />
+        <activity android:name=".one.OneActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
